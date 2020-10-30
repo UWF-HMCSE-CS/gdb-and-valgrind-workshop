@@ -35,7 +35,7 @@ bool Account::withdrawAmount(float amount)
 
 bool Account::withdrawIsPossible(float amount)
 {
-    return (this->overdraftLimit + this->currentBalance - amount) > 0;
+    return (this->overdraftLimit - this->currentBalance - amount) > 0;
 }
 
 void Account::setInterestRate(float rate)
