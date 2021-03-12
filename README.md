@@ -6,7 +6,7 @@ This repository contains the base code that we will be working on throughout the
 
 This is the recording from the workshop:
 
-[![Workshop Video](https://img.youtube.com/vi/qboRlI1zz6U/0.jpg)](https://youtu.be/qboRlI1zz6U)
+[![Workshop Video](https://img.youtube.com/vi/yjDQpTHhDK8/0.jpg)](https://youtu.be/yjDQpTHhDK8)
 
 ## Links to Configuring WSL with Visual Studio (Optional)
 
